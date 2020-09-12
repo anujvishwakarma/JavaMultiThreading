@@ -7,5 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="json-20200518" level="project" />
+    <orderEntry type="library" name="apidocs" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.11-sources" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.11-javadoc" level="project" />
   </component>
 </module>
